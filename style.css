@@ -4,3 +4,15 @@ body{
     font-family: Verdana, Geneva, Tahoma;
     text-align: center;
 }
+label{
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+input, button{
+    color: black;
+    background-color: white;
+    border-radius: 16px;
+}
+
